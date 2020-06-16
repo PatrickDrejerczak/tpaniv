@@ -1,0 +1,75 @@
+body{
+	margin: 0px;
+	background: #63BCE2;
+}
+
+h1 {
+	font-family: fantasy;
+	font-size: 3em;
+	border-bottom: 2px solid pink;
+	border-right: 2px solid pink;
+	width: 400px;
+	text-align: center;
+	-moz-box-shadow: 4px 4px 5px #888888;
+	-ms-box-shadow: 4px 4px 5px #888888;
+	-webkit-box-shadow: 4px 4px 5px #888888;
+	-o-box-shadow: 4px 4px 5px #888888;
+	box-shadow: 4px 4px 5px #888888;
+	margin-top: 10px;
+}
+
+audio{
+	padding: 1rem 2rem;
+}
+
+
+p{
+	text-align: center;
+	border: 5px solid black;
+}
+
+img {
+	width: 450px;
+	height: 300px;
+	margin: 5px;
+	float: left;
+}
+
+.container {
+	display: flex;
+	flex-wrap: ;
+	justify-content: center;
+	border: 5px solid black;
+}
+
+
+.btn{
+	font-weight: 700;
+	border-radius: 300px;
+	text-transform: uppercase;
+	margin-top: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	margin-bottom: 20px;
+}
+
+.btn-xl{
+	padding: 1rem 2rem;
+}
+
+.btn-primary{
+	background-color: #FF8C26;
+	border-color: #FF8C26;
+}
+
+.btn-primary:hover{
+	background-color: pink;
+	border-color: pink;
+	border-width: 4px;
+}
+
+.fright{
+	float:right;
+	margin: 0 1em 0.2em 0;
+	flex-wrap: wrap;
+}
