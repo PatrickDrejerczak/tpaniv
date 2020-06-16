@@ -1,6 +1,6 @@
 body{
 	margin: 0px;
-  background: blue;
+  background: #FF8656;
 }
 
 .container {
@@ -67,8 +67,8 @@ img:hover {
 }
 
 .btn-primary{
-	background-color: red;
-	border-color: red;
+	background-color: #28B17A;
+	border-color: #28B17A;
 }
 
 .btn-primary:hover{
